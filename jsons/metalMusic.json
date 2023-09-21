@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Master of Puppets",
+    "singers": "Metallica",
+    "publish_date": "1986"
+  },
+  {
+    "name": "Paranoid",
+    "singers": "Black Sabbath",
+    "publish_date": "1970"
+  },
+  {
+    "name": "Fade to Black",
+    "singers": "Metallica",
+    "publish_date": "1984"
+  },
+  {
+    "name": "The Trooper",
+    "singers": "Iron Maiden",
+    "publish_date": "1983"
+  },
+  {
+    "name": "Ace of Spades",
+    "singers": "Motörhead",
+    "publish_date": "1980"
+  },
+  {
+    "name": "Enter Sandman",
+    "singers": "Metallica",
+    "publish_date": "1991"
+  },
+  {
+    "name": "Run to the Hills",
+    "singers": "Iron Maiden",
+    "publish_date": "1982"
+  },
+  {
+    "name": "Hallowed Be Thy Name",
+    "singers": "Iron Maiden",
+    "publish_date": "1982"
+  },
+  {
+    "name": "Holy Diver",
+    "singers": "Dio",
+    "publish_date": "1983"
+  },
+  {
+    "name": "Breaking the Law",
+    "singers": "Judas Priest",
+    "publish_date": "1980"
+  },
+  {
+    "name": "One",
+    "singers": "Metallica",
+    "publish_date": "1988"
+  },
+  {
+    "name": "Chop Suey!",
+    "singers": "System Of A Down",
+    "publish_date": "2001"
+  },
+  {
+    "name": "Cemetery Gates",
+    "singers": "Pantera",
+    "publish_date": "1990"
+  },
+  {
+    "name": "Iron Man",
+    "singers": "Black Sabbath",
+    "publish_date": "1970"
+  },
+  {
+    "name": "War Pigs",
+    "singers": "Black Sabbath",
+    "publish_date": "1970"
+  },
+  {
+    "name": "Toxicity",
+    "singers": "System Of A Down",
+    "publish_date": "2001"
+  },
+  {
+    "name": "Raining Blood",
+    "singers": "Slayer",
+    "publish_date": "1986"
+  },
+  {
+    "name": "Welcome to the Jungle",
+    "singers": "Guns N' Roses",
+    "publish_date": "1987"
+  },
+  {
+    "name": "Symphony of Destruction",
+    "singers": "Megadeth",
+    "publish_date": "1992"
+  },
+  {
+    "name": "The Number of the Beast",
+    "singers": "Iron Maiden",
+    "publish_date": "1982"
+  }
+]
